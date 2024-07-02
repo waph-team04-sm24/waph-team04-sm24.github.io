@@ -19,9 +19,9 @@ Your team can revise/add more sections._
 
 # Project Management Information
 
-Source code repository (private access): <[https://github.com/***](https://github.com/waph-team04-sm24/waph-teamproject)>
+Source code repository (private access): <[https://github.com/waph-team04-sm24/waph-teamproject](https://github.com/waph-team04-sm24/waph-teamproject)>
 
-Project homepage (public): <[https://***.github.io](https://github.com/waph-team04-sm24/waph-team04-sm24.github.io)>
+Project homepage (public): <[https://waph-team04-sm24.github.io](https://waph-team04-sm24.github.io)>
 
 ## Revision History
 
